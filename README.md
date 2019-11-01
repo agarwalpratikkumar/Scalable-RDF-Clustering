@@ -1,1 +1,1 @@
-# Thesis_Clustering
+# Scalable-RDF-Clustering
